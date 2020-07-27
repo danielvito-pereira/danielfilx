@@ -181,6 +181,32 @@
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
+    },
+
+    {
+      "titulo": "Hardware",
+      "cor": "#6b5b",
+      
+      "videos": [
+        {
+          "titulo": "Conhecendo Melhor a Placa Mãe",
+          "url": "https://www.youtube.com/watch?v=YLBSMJ13ZqI&list=PL968TMGoACSuEiD44jNGIbvQfJo4Lwf3-&index=1"
+        },
+        {
+          "titulo": "Comprei um PC DA XUXA pra modificar",
+          "url": "https://www.youtube.com/watch?v=SMMnZ6wJhF0"
+        },
+        {
+          "titulo": "COMO TESTAR MEU PC",
+          "url": "https://www.youtube.com/watch?v=5nb-rHVKavc&list=PL4PNGRHJdFAJPvBaftNc7vKYyVoxmmQIo&index=3"
+        },
+        {
+          "titulo": "ENTENDENDO A VERDADEIRA VANTAGEM DE TER MAIS MEMÓRIA RAM NO PC",
+          "url": "https://www.youtube.com/watch?v=xR4FKgxhlQU&list=PL968TMGoACSuEiD44jNGIbvQfJo4Lwf3-&index=3"
+        }
+   
+      ]
     }
+
   ]
 }
