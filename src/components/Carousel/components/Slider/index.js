@@ -35,6 +35,7 @@ export const SliderItem = styled.li`
     width: 298px;
     height: 197px;
     object-fit: cover;
+    transition: all .25s ease-out;
   }
 `;
 
@@ -43,11 +44,13 @@ const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
       dots: false,
-      infinite: false,
+      infinite: true,
       speed: 300,
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
+      
+      
     }}
     >
       {children}
