@@ -14,11 +14,11 @@ export const FooterBase = styled.footer`
     margin-bottom: 50px;
   }
   .Fot {
-    max-width: 168px;
+    max-width: 128px;
   }
   @media (max-width: 800px) {
     .Fot {
-      max-width: 105px;
+      max-width: 100px;
     }
   }
   .animate-svg {

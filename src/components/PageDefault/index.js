@@ -15,7 +15,7 @@ const Main = styled.main`
 function PageDefault({children}){
     return (
 
-        <>/*fragmento de uma tag  */
+        <>
             <Menu/>
                 <Main>
                     {children}

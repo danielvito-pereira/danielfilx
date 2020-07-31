@@ -26,7 +26,7 @@ a {
 
 #root {
   main-height: 100vh -var(--bodyPadding);
-  background: orange;
+  background: rgb(19, 18, 18);
   display: flex;
   flex-direction: column;
 }
